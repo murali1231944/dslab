@@ -1,2 +1,2 @@
 # dslab
-data structures ;ab programs
+data structures lab programs
